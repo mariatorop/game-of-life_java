@@ -1,1 +1,1 @@
-# java-projects
+# Game of Life
